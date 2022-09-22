@@ -1,0 +1,10 @@
+/node_modules
+/private
+/target
+/dist
+/out
+
+*.lock
+*.json
+!package.json
+!tsconfig.json
